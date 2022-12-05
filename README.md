@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on some open source projects.
 - 😄 Pronouns: He/Him
+
+![](https://github.com/bashbunni/bashbunni/raw/main/dancing-gopher.gif)
